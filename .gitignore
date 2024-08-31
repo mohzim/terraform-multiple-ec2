@@ -36,8 +36,5 @@ override.tf.json
 .terraformrc
 terraform.rc
 
-# Skip Terraform lock files to save space
-.terraform.lock.hcl
-
 # Mac OS File
 .DS_Store
