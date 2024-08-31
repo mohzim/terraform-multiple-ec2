@@ -35,3 +35,9 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+
+# Skip Terraform lock files to save space
+.terraform.lock.hcl
+
+# Mac OS File
+.DS_Store
